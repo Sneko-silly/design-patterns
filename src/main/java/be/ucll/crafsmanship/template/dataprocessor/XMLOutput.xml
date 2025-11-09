@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<oomfies>
+        
+    <oomfie oomfId="01" type="java">
+                
+        <name>Baka</name>
+                
+        <description>No thoughts</description>
+            
+        <timestamp>2025-11-06T20:47:29.469045200</timestamp>
+    </oomfie>
+    	
+    <oomfie oomfId="02" type="java">
+                
+        <name>Alice</name>
+                
+        <description>Yeah we girlmaxxing</description>
+            
+        <timestamp>2025-11-06T20:47:29.469045200</timestamp>
+    </oomfie>
+    	
+    <oomfie oomfId="03" type="java">
+                
+        <name>Nox</name>
+                
+        <description>Hot demon lady</description>
+            
+        <timestamp>2025-11-06T20:47:29.469045200</timestamp>
+    </oomfie>
+</oomfies>
